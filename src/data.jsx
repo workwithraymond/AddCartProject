@@ -1,7 +1,7 @@
 const cartItems = [
     {
       id: 'rec1JZlfCIBOPdcT2',
-      title: 'Samsung Galaxy S8',
+      title: 'iPhone 13',
       price: '399.99',
       img: 'https://www.course-api.com/images/cart/phone-1.png',
       amount: 1,
